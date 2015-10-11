@@ -22,7 +22,7 @@ if you cannot find the above file, then this solution is not for you
 # installation
 this works for ubuntu 14.04
 
-download the backlight.sh file and place it in a directory (path is <p>, say)
+download the backlight.sh file and place it in a directory (path is ```<p>```, say)
 
 ```
 $ chmod +x <p>/backlight.sh
